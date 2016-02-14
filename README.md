@@ -9,7 +9,7 @@ Python is used as Web App GUI.<br>
 Matlab is used as EEG analysis, preprocessing, and classification.<br>
 1. PCA and ICA Package (see http://www.mathworks.com/matlabcentral/fileexchange/38300-pca-and-ica-package)<br>
 ## Paper Publication
-1. JATIT - Significant Preprocessing Method in EEG-Based Emotion Classification (see https://drive.google.com/file/d/0B9EQQ4nwB6CbdlpoX0tuSzRxbzg)<br>
+JATIT - Significant Preprocessing Method in EEG-Based Emotion Classification (see https://drive.google.com/file/d/0B9EQQ4nwB6CbdlpoX0tuSzRxbzg)<br>
 
 ## Copyright
 Copyright (c) 2016 Muhammad Nadzeri Munawar<br><br>
