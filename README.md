@@ -3,12 +3,12 @@ EEG preprocessing methods for classifying person emotions have been widely appli
 ## Required Library
 ### Python
 Python is used as Web App GUI.<br>
-1. Common Gateway Interface (see https://docs.python.org/2/library/cgi.html)<br>
-2. cgitb (see https://docs.python.org/2/library/cgitb.html)<br>
-3. Matlab Engine for Python (see http://www.mathworks.com/help/matlab/matlab-engine-for-python.html)<br>
+1. [Common Gateway Interface](https://docs.python.org/2/library/cgi.html)<br>
+2. [Cgitb](https://docs.python.org/2/library/cgitb.html)<br>
+3. [Matlab Engine for Python](http://www.mathworks.com/help/matlab/matlab-engine-for-python.html)<br>
 ### Matlab
 Matlab is used as EEG analysis, preprocessing, and classification.<br>
-1. PCA and ICA Package (see http://www.mathworks.com/matlabcentral/fileexchange/38300-pca-and-ica-package)<br>
+1. [PCA and ICA Package](http://www.mathworks.com/matlabcentral/fileexchange/38300-pca-and-ica-package)<br>
 ## Paper Publication
 [JATIT - Significant Preprocessing Method in EEG-Based Emotion Classification](https://drive.google.com/file/d/0B9EQQ4nwB6CbdlpoX0tuSzRxbzg)<br>
 
